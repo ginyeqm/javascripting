@@ -1,3 +1,7 @@
-var pet =    ['cat', 'dog', 'rat'];
-  for ( pets[i] = pets[i] + 's';)
-    console,log(pet);
+var pet = ['cat', 'dog', 'rat'];
+  for (var i = 0; i < pet.length; i++){
+    pet[i] = pet[i] + 's';
+  }
+
+
+    console.log(pet);

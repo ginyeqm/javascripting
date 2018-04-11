@@ -1,4 +1,5 @@
      var food = {
        types: 'only pizza'
      };
-console.log(types);
+
+     console.log(food.types);
